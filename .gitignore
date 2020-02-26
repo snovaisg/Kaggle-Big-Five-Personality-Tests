@@ -124,3 +124,6 @@ dmypy.json
 
 # data
 */IPIP-FFM-data-8Nov2018
+
+# development scripts
+*EDA.ipynb
