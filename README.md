@@ -1,7 +1,7 @@
 # Kaggle Big Five Personality Tests
 
 # Get Started
-To run this project first be sure you are using the specified python version in **.python-version** and packages in **requirements.txt**. I've used [pyenv](https://github.com/pyenv/pyenv) to manage the python version and virtual environments.
+To run this project first be sure you are using the specified python version in **.python-version** and packages in **requirements.txt**. I used [pyenv](https://github.com/pyenv/pyenv) to manage the python version and virtual environments.
 
 # Summary
 
